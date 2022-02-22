@@ -16,7 +16,11 @@
 # *Comments
 # The figure is produced on basis of the historical ERF time series derived by 
 # Chapter 7 Chapter Scientists Chris Smith and published in the 
-# “Annex Climate Tables” 
+# “Annex Climate Tables”
+
+# 1)convert to NetCDF using tx2nc.ksh
+# 2)plot with ploterf.ncl
+
 #
 # ========================
 # DATA & FILE OVERVIEW
