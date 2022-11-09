@@ -18,7 +18,6 @@
 # Chapter 7 Chapter Scientists Chris Smith and published in the Annex III: Radiative Forcing : https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_AnnexIII.pdf 
 # 1)convert to NetCDF using tx2nc.ksh
 # 2)plot with ploterf.ncl
-
 #
 # ========================
 # DATA & FILE OVERVIEW
