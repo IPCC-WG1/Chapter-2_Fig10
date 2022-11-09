@@ -19,7 +19,7 @@ EOF
 done
 echo "data:" >> erf.txt
 
-tail -272 AR6_ERF_1750-2019_fgd.csv > 1.csv
+tail -272 table_A3.3_historical_ERF_1750-2019_best_estimate.csv > 1.csv
 line=`cat 1.csv |awk 'BEGIN { FS = "," } ; { printf"%9.3f, ", $1 }'`
 cat >> erf.txt <<EOF
 time = $line;
