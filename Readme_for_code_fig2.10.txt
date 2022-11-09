@@ -15,9 +15,7 @@
 #
 # *Comments
 # The figure is produced on basis of the historical ERF time series derived by 
-# Chapter 7 Chapter Scientists Chris Smith and published in the 
-# “Annex Climate Tables”
-
+# Chapter 7 Chapter Scientists Chris Smith and published in the Annex III: Radiative Forcing : https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_AnnexIII.pdf 
 # 1)convert to NetCDF using tx2nc.ksh
 # 2)plot with ploterf.ncl
 
@@ -27,8 +25,7 @@
 #
 # List of all files and subfolders
 # 
-# “historical ERF.xlsx” file in “Annex Climate Tables” in the 
-# “Annex 5 Historical and SSP effective radiative forcing” folder
+# “table_A3.3_historical_ERF_1750-2019_best_estimate” file available here: https://bit.ly/3UD9YHX as part of the extended datasets and further auxiliary data are made available here: https://doi.org/10.5281/zenodo.5705391
 # 
 # Postprocessing:
 # see Readme file
